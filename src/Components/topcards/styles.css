@@ -1,0 +1,33 @@
+.numberstop {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    
+    position: relative;
+    width: 235px;
+    height: 185px;
+    left: 0px;
+    top: 48px;
+
+    margin-right: 45px;
+}
+
+.topnumber {
+    box-sizing: border-box;
+
+    position: relative;
+    width: 108.5px;
+    height: 185px;
+    left: 0px;
+    top: 0px;
+
+    opacity: 0.45;
+
+}
+
+.topimage {
+    width: 132px;
+    height: 185px;
+    border-radius: 4px;
+}

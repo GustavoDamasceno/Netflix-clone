@@ -1,0 +1,16 @@
+.topcont {
+    display: flex;
+    flex-direction: row;
+
+    position: relative;
+    width: 92vw;
+    height: 233px;
+    left: 65px;
+
+    margin-bottom: 56px;
+}
+
+.toplinhacar{
+    width: 92vw;
+
+}

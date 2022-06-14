@@ -1,0 +1,10 @@
+.bg{
+    position: absolute;
+    width: 100%;
+    height: 1397px;
+    left: 0px;
+    top: 688px;
+
+    background: linear-gradient(180deg, rgba(20, 20, 20, 0) 0%, #141414 7.48%);
+}
+

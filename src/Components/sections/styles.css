@@ -1,0 +1,59 @@
+.sec{
+    position: relative;
+    width: 92vw;
+    height: 199px;
+    left: 65px;
+    
+    margin-bottom: 56px;
+}
+
+.secarr{
+    height: 194px;
+    left: 65px;
+    display: flex;
+    flex-direction: row;
+}
+
+.linhacard {
+    width: 92vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.sectionName{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 4px;
+
+    position: absolute;
+    width: 117px;
+    height: 32px;
+    top: 0px;
+
+}
+
+.sectionTittle{
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 32px;
+
+    color: #FFFFFF;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.sectionIcon{
+    width: 24px;
+    height: 24px;
+
+    flex: none;
+    flex-grow: 0;
+}
