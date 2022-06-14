@@ -12,8 +12,6 @@ Link para acessar o projeto no figma: https://www.figma.com/file/sypEiiwdjHZKrQc
 
 ### Em desenvolvimento
 
-Até o momento foi desenvolvido o componente navbar, como mostra a imagem abaixo:
+Falta apenas fazer o hover dos cards
 
-![](https://media.discordapp.net/attachments/721023119074000897/985084051075526656/unknown.png?width=1025&height=82)
 
-O próximo passo será desenvolver o componente "Tittle Preview".
