@@ -19,7 +19,7 @@ Abra o terminal no local do projeto e execute:
 ```
 npm install
 ```
-Depois de verificar que a pasta node_modules foi criada execute a aplicação:
+Depois de verificar que a pasta **node_modules** foi criada execute a aplicação:
 
 ```
 npm run dev
