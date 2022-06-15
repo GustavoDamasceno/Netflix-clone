@@ -10,8 +10,22 @@ O projeto está sendo desenvolvido baseado no UI abaixo:
 
 Link para acessar o projeto no figma: https://www.figma.com/file/sypEiiwdjHZKrQc3uLsvw9/UI-NETFLIX?node-id=0%3A1
 
-### Em desenvolvimento
+### Executar projeto
 
-Falta apenas fazer o hover dos cards
+Faça download do projeto via **git** ou **.zip**
+
+Abra o terminal no local do projeto e execute:
+
+```
+npm install
+```
+Depois de verificar que a pasta node_modules foi criada execute a aplicação:
+
+```
+npm run dev
+```
+Pronto, o projeto estará rodando no **localhost:3000**
+
+
 
 
