@@ -8,7 +8,7 @@ O projeto está sendo desenvolvido baseado no UI abaixo:
 
 ![](https://media.discordapp.net/attachments/721023119074000897/985083343324454952/Cover.png?width=712&height=427)
 
-Link para acessar o projeto no figma: https://www.figma.com/file/sypEiiwdjHZKrQc3uLsvw9/UI-NETFLIX?node-id=0%3A1
+Link para acessar o projeto no figma: **[clique aqui](https://www.figma.com/file/sypEiiwdjHZKrQc3uLsvw9/UI-NETFLIX?node-id=0%3A1)**
 
 ### Executar projeto
 
